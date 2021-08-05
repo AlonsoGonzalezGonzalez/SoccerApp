@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lab1">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".seriaA"></activity>
+        <activity android:name=".Pleague"></activity>
+        <activity android:name=".ligue1"></activity>
+        <activity android:name=".LB38"></activity>
+        <activity android:name=".LB37"></activity>
+        <activity android:name=".LB36"></activity>
+        <activity android:name=".LB35"></activity>
+        <activity android:name=".LB34"></activity>
+        <activity android:name=".LB33"></activity>
+        <activity android:name=".LB32"></activity>
+        <activity android:name=".LB31"></activity>
+        <activity android:name=".LB30"></activity>
+        <activity android:name=".LB29"></activity>
+        <activity android:name=".LB28"></activity>
+        <activity android:name=".LB27"></activity>
+        <activity android:name=".LB26"></activity>
+        <activity android:name=".LB25"></activity>
+        <activity android:name=".LB24"></activity>
+        <activity android:name=".LB23"></activity>
+        <activity android:name=".LB22"></activity>
+        <activity android:name=".LB21"></activity>
+        <activity android:name=".LB20"></activity>
+        <activity android:name=".LB19"></activity>
+        <activity android:name=".LB18"></activity>
+        <activity android:name=".LB17"></activity>
+        <activity android:name=".LB16"></activity>
+        <activity android:name=".LB15"></activity>
+        <activity android:name=".LB14"></activity>
+        <activity android:name=".LB13"></activity>
+        <activity android:name=".LB12"></activity>
+        <activity android:name=".LB11"></activity>
+        <activity android:name=".LB10"></activity>
+        <activity android:name=".LB9"></activity>
+        <activity android:name=".LB8"></activity>
+        <activity android:name=".LB7"></activity>
+        <activity android:name=".LB6"></activity>
+        <activity android:name=".LB5"></activity>
+        <activity android:name=".LB4"></activity>
+        <activity android:name=".LB3"></activity>
+        <activity android:name=".LB2"></activity>
+        <activity android:name=".LB1"></activity>
+        <activity android:name=".Ligbmatches"></activity>
+        <activity android:name=".LigbAssistants"></activity>
+        <activity android:name=".LigbScorers"></activity>
+        <activity android:name=".BG10"></activity>
+        <activity android:name=".BG34"></activity>
+        <activity android:name=".BG33"></activity>
+        <activity android:name=".BG32"></activity>
+        <activity android:name=".BG31"></activity>
+        <activity android:name=".BG30"></activity>
+        <activity android:name=".BG29"></activity>
+        <activity android:name=".BG28"></activity>
+        <activity android:name=".BG27"></activity>
+        <activity android:name=".BG26"></activity>
+        <activity android:name=".BG25"></activity>
+        <activity android:name=".BG24"></activity>
+        <activity android:name=".BG23"></activity>
+        <activity android:name=".BG22"></activity>
+        <activity android:name=".BG21"></activity>
+        <activity android:name=".BG20"></activity>
+        <activity android:name=".BG19"></activity>
+        <activity android:name=".BG18"></activity>
+        <activity android:name=".BG17"></activity>
+        <activity android:name=".BG16"></activity>
+        <activity android:name=".BG15"></activity>
+        <activity android:name=".BG14"></activity>
+        <activity android:name=".BG13"></activity>
+        <activity android:name=".BG12"></activity>
+        <activity android:name=".BG11"></activity>
+        <activity android:name=".BG9"></activity>
+        <activity android:name=".BG8"></activity>
+        <activity android:name=".BG7"></activity>
+        <activity android:name=".BG6"></activity>
+        <activity android:name=".BG5"></activity>
+        <activity android:name=".BG4"></activity>
+        <activity android:name=".BG3"></activity>
+        <activity android:name=".BG2"></activity>
+        <activity android:name=".BG1"></activity>
+        <activity android:name=".LigaBBVA"></activity>
+        <activity android:name=".Matches"></activity>
+        <activity android:name=".BunAssistants"></activity>
+        <activity android:name=".BunScorers"></activity>
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

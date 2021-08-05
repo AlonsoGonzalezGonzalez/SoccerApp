@@ -15,9 +15,8 @@ import java.sql.Statement;
 
 public class BG1 extends AppCompatActivity {
 
-    String h1,h2,h3,h4,h5,h6,h7,h8,h9,pic;
+    String h1,h2,h3,h4,h5,h6,h7,h8,h9;
     String a1,a2,a3,a4,a5,a6,a7,a8,a9;
-    String koln, union, mainz, hoff,bl,bm,mg,bd,frank,augs,sch04,duss,bsc,rb,fre, pad,wol,wed;
     int htg1,atg1,htg2,atg2,htg3,atg3,htg4,atg4,htg5,atg5,atg6,htg7,atg7,htg8,atg8,htg9,atg9;
     Connection con;
 

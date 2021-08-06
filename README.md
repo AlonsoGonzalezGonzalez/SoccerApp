@@ -5,7 +5,6 @@ This app retrieves data from a custom database built by us using the GoogleCloud
 top scorers and top assistants of the season in different leagues.
 
 
-**hello** 
 https://user-images.githubusercontent.com/66725027/128303547-f75df525-60bc-4a25-bcbe-f635aa462059.mp4
 
 
